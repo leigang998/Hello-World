@@ -1,3 +1,3 @@
 # Hello-World
 A test Repository
-I am a begineer.
+I am a beginner.
